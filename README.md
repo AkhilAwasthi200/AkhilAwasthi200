@@ -1,18 +1,183 @@
-# 💫 About Me:
-Hi 👋, I'm Akhil Awasthi<br>🚀 Full-Stack & AI Developer<br><br>I'm a Computer Science & Engineering student passionate about building AI-powered and scalable web applications.<br>🤖 Working with AI Agents, LangChain & LangGraph<br>💻 Full-Stack Development with the MERN Stack<br>☁️ Exploring AWS, Docker, Microservices & Redis<br>🧠 Solved 300+ DSA problems on LeetCode<br>🌱 Currently learning and building projects around Generative AI & Full-Stack Development<br>🛠️ Tech Stack<br><br>Languages: Java, Python, JavaScript<br>Frontend: React.js, HTML, CSS, Tailwind CSS<br>Backend: Node.js, Express.js<br>Database: MongoDB, SQL, Redis<br>AI: LangChain, LangGraph, AI Agents<br>DevOps & Cloud: Docker, Microservices, AWS<br>Authentication: Firebase Authentication<br><br>📫 Connect With Me<br>💼 LinkedIn: AkhilAwasthi200
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=374151&height=110&text=Akhil%20Awasthi&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4b5563&height=60&text=Full-Stack%20and%20AI%20Developer&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6b7280&height=60&text=AI%20Agents%20%7C%20MERN%20Stack%20%7C%20DSA&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akhilawasthi200/) 
+<br><br>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AkhilAwasthi200&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AkhilAwasthi200&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AkhilAwasthi200&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://www.linkedin.com/in/akhilawasthi2006/"><img src="https://img.shields.io/badge/LINKEDIN-6b7280?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/AkhilAwasthi200/"><img src="https://img.shields.io/badge/LEETCODE-4b5563?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://github.com/AkhilAwasthi200"><img src="https://img.shields.io/badge/GITHUB-374151?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=AkhilAwasthi200&label=PROFILE+VIEWS&color=6b7280&style=for-the-badge" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=AkhilAwasthi200&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+```yaml
+name         : Akhil Awasthi
+education    : B.Tech CSE (AI & DS)
+role         : Full-Stack & AI Developer
+focus        : AI Agents · Full-Stack Development · DSA · Machine Learning
+leetcode     : 300+ problems solved
+```
+
+- Passionate about building AI-powered and scalable web applications
+- Working with AI Agents, LangChain & LangGraph
+- Full-Stack Development with the MERN Stack
+- Exploring AWS, Docker, Microservices & Redis
+- Solved 300+ DSA problems on LeetCode to strengthen problem-solving skills
+- Currently learning and building projects around Generative AI & Full-Stack Development
+- Open to internships, research opportunities and open-source collaborations
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://img.shields.io/badge/JAVA-6b7280?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-4b5563?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-374151?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-6b7280?style=for-the-badge&logo=typescript&logoColor=white" />
+
+### Frontend
+<img src="https://img.shields.io/badge/HTML5-9ca3af?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-6b7280?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/REACT-4b5563?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/NEXT.JS-374151?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TAILWIND_CSS-6b7280?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/BOOTSTRAP-4b5563?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+### Backend
+<img src="https://img.shields.io/badge/NODE.JS-6b7280?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPRESS.JS-4b5563?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FIREBASE_AUTH-374151?style=for-the-badge&logo=firebase&logoColor=white" />
+
+### Database
+<img src="https://img.shields.io/badge/MONGODB-6b7280?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MYSQL-4b5563?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/POSTGRES-374151?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/REDIS-6b7280?style=for-the-badge&logo=redis&logoColor=white" />
+
+### AI / ML & Data Science
+<img src="https://img.shields.io/badge/LANGCHAIN-9ca3af?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LANGGRAPH-6b7280?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_AGENTS-4b5563?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/NUMPY-374151?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/PANDAS-6b7280?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/MLFLOW-4b5563?style=for-the-badge&logo=mlflow&logoColor=white" />
+
+### DevOps, Cloud & Tools
+<img src="https://img.shields.io/badge/AWS-6b7280?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/DOCKER-4b5563?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-374151?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-6b7280?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITLAB-4b5563?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/RENDER-374151?style=for-the-badge&logo=render&logoColor=white" />
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AkhilAwasthi200&show_icons=true&hide_border=true&bg_color=0d1117&title_color=d1d5db&text_color=ffffff&icon_color=9ca3af&ring_color=9ca3af" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilAwasthi200&layout=compact&hide_border=true&bg_color=0d1117&title_color=d1d5db&text_color=ffffff" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=AkhilAwasthi200&hide_border=true&background=0d1117&stroke=4b5563&ring=9ca3af&fire=d1d5db&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=d1d5db&sideLabels=d1d5db&dates=9ca3af" />
+
+<br>
+
+<img src="https://ghchart.rshah.org/6b7280/AkhilAwasthi200" alt="Akhil Awasthi's GitHub contribution calendar" width="100%" />
+
+</div>
+
+---
+
+## Achievements & Certifications
+
+<div align="center">
+
+| Achievement | Details |
+|---|---|
+| LeetCode | 300+ Problems Solved |
+| Full-Stack | Building projects with the MERN Stack |
+| AI | Working with AI Agents, LangChain & LangGraph |
+| Cloud & DevOps | Exploring AWS, Docker, Microservices & Redis |
+
+</div>
+
+---
+
+## LeetCode Progress
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/AkhilAwasthi200?theme=dark&font=Fira%20Code&ext=heatmap" />
+
+</div>
+
+> 300+ problems solved · Continuously strengthening DSA and problem-solving skills.
+
+---
+
+## Currently Learning
+
+```text
+DSA                Java
+AI / ML            Python · Machine Learning
+Generative AI      LangChain · LangGraph · AI Agents
+Full Stack         React · Node.js · Express.js · MongoDB
+Cloud & DevOps     AWS · Docker · Microservices · Redis
+```
+
+---
+
+## Open Source & Community
+
+- Exploring open-source contributions in AI/ML and web development
+- Building practical projects and strengthening technical skills
+- Participating in hackathons and collaborative development
+- Continuously learning and sharing knowledge with the community
+
+---
+
+## What I'm Looking For
+
+> Open to Internships · Research Collaborations · Open Source Projects · Hackathon Teams
+
+- AI/ML and Generative AI opportunities
+- Full-Stack Development opportunities
+- DSA and problem-solving collaborations
+- Research and innovation opportunities
+- Hackathon collaborations
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/akhilawasthi2006/"><img src="https://img.shields.io/badge/LINKEDIN-6b7280?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/AkhilAwasthi200/"><img src="https://img.shields.io/badge/LEETCODE-4b5563?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://github.com/AkhilAwasthi200"><img src="https://img.shields.io/badge/GITHUB-374151?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4b5563&height=100&text=Build%20Something%20Amazing&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%" />
+
+*"Learn. Build. Lead. Repeat."*
+
+</div>
